@@ -1,0 +1,12 @@
+[
+    {"id":1,"name":"Beans - Wax","price":69.91,"stock":19},
+    {"id":2,"name":"Pickles - Gherkins","price":64.9,"stock":89},
+    {"id":3,"name":"Plasticknivesblack","price":27.56,"stock":70},
+    {"id":4,"name":"Saskatoon Berries - Frozen","price":64.73,"stock":81},
+    {"id":5,"name":"Foam Tray S2","price":55.68,"stock":15},
+    {"id":6,"name":"Appetizer - Spring Roll, Veg","price":16.56,"stock":99},
+    {"id":7,"name":"Yoplait - Strawbrasp Peac","price":73.78,"stock":79},
+    {"id":8,"name":"Veal - Nuckle","price":3.81,"stock":57},
+    {"id":9,"name":"Wine - White, Chardonnay","price":28.9,"stock":96},
+    {"id":10,"name":"Onions - Cippolini","price":36.79,"stock":54}
+]
